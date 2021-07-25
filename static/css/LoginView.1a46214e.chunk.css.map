@@ -1,0 +1,1 @@
+{"version":3,"sources":["webpack://src/views/LoginView/LoginView.module.css"],"names":[],"mappings":"AAAA,uBACE,SACF,CAEA,wBACE,cAAe,CACf,+BAAwB,CAAxB,uBAAwB,CACxB,gBACF","file":"LoginView.1a46214e.chunk.css","sourcesContent":[".form {\n  width: 320;\n}\n\n.label {\n  display: 'flex';\n  flex-direction: 'column';\n  margin-bottom: 15;\n}\n"]}
